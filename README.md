@@ -88,10 +88,13 @@ pip install -r requirements.txt
 
 # Start the app
 streamlit run streamlit_app.py
-👩‍💻 Author
+
+#👩‍💻 Author
 Shreya Langote
 🎓 AI/ML • B.Tech (Computer Science)
+
 🔗 LinkedIn-linkedin.com/in/shreya-langote-7729702b5
+
 💻 GitHub-ShreyaLangote
 
 🙌 Acknowledgments
