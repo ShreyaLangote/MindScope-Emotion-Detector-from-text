@@ -58,8 +58,7 @@ if st.button("🔍 Detect Emotion"):
     else:
         cleaned = clean_text(user_input)
         vector = vectorizer.transform([cleaned])
-        encoded = model.predict(vector)[0]
-        emotion = label_encoder.inverse_transform([encoded])[0]
+        emotion = model.predict(vector)[0]
         emoji = emoji_map.get(emotion, "❓")
         
         st.success(f"**Predicted Emotion:** {emotion.upper()} {emoji}")
