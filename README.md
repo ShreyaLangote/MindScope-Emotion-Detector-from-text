@@ -89,7 +89,7 @@ pip install -r requirements.txt
 # Start the app
 streamlit run streamlit_app.py
 
-#👩‍💻 Author
+# Author
 Shreya Langote
 🎓 AI/ML • B.Tech (Computer Science)
 
@@ -97,14 +97,14 @@ Shreya Langote
 
 💻 GitHub-ShreyaLangote
 
-🙌 Acknowledgments
+# Acknowledgments
 Dataset Creator: @pashupatigupta on Kaggle
 
 Streamlit for open-source web app hosting
 
 Scikit-learn and NLTK teams for robust ML tools
 
-🤝 Contributing
+# Contributing🤝
 Have ideas to improve accuracy or add deep learning? Contributions are welcome!
 
 bash
